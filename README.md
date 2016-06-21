@@ -3,8 +3,10 @@
 Simple starter code for Gradle based Java application. Configured for intellij
 
 ## Getting stared
-Create a folder with the project name. Clone this repository inside it, then run the following:
+
 ```
+git clone https://github.com/Omarasifshaikh/java-intellij-gradle-starter.git <PROJECT_NAME>
+cd <PROJECT_NAME>
 ./gradlew idea
 ./gradlew build
 ./gradlew run
